@@ -1025,6 +1025,12 @@ section {
   }
 }
 
+.project-item img {
+  width: 100%; /* Set the width of the image to 100% */
+  height: auto; /* Ensure the height adjusts proportionally to maintain aspect ratio */
+}
+
+
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
